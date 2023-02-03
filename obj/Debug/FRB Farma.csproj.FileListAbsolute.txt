@@ -1,0 +1,11 @@
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\bin\Debug\FRB Farma.exe.config
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\bin\Debug\FRB Farma.exe
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\bin\Debug\FRB Farma.pdb
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.csproj.AssemblyReference.cache
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB_Farma.FormLogin.resources
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB_Farma.Properties.Resources.resources
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.csproj.GenerateResource.cache
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.csproj.CoreCompileInputs.cache
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.exe
+C:\Users\sa354\source\repos\FRB Farma\FRB Farma\obj\Debug\FRB Farma.pdb
